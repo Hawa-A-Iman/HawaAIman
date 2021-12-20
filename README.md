@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HawaAIman
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning c++ and python
