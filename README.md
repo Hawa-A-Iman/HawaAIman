@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @HawaAIman
-- 👀 I’m interested in computer science
+- 👋 Hi, I’m @Hawa-A-Iman
+- 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning c++ and python
