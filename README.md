@@ -1,3 +1,3 @@
 - 👋🏽 Hi, I’m @Hawa-A-Iman
-- 👀 I’m interested in engineering
+- 💡 I’m studying electrical engineering
 - 🌱 I’m currently learning c++, python, and java
